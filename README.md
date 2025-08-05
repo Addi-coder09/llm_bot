@@ -17,7 +17,7 @@ The chatbot UI is created with a modern Streamlit interface and integrated with 
 
 ## 🖼️ Preview
 
-![Chatbot Preview](assets/preview.png)
+![Chatbot Preview](Assets/preview.png)
 
 
 
